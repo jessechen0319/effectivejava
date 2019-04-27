@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/effectivejava.iml" filepath="$PROJECT_DIR$/.idea/modules/effectivejava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/effectivejava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/effectivejava_main.iml" group="effectivejava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/effectivejava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/effectivejava_test.iml" group="effectivejava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session1.iml" filepath="$PROJECT_DIR$/.idea/modules/session1.iml" group="session1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session1/session1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/session1/session1_main.iml" group="session1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session1/session1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/session1/session1_test.iml" group="session1" />
+    </modules>
+  </component>
+</project>

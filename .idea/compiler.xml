@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="effectivejava_main" target="1.8" />
+      <module name="effectivejava_test" target="1.8" />
+      <module name="session1_main" target="1.8" />
+      <module name="session1_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
